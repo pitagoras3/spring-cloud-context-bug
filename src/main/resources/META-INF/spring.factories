@@ -1,0 +1,2 @@
+org.springframework.cloud.bootstrap.BootstrapConfiguration=\
+io.github.pitagoras3.springcloudcontextbug.CustomBootstrapConfiguration
